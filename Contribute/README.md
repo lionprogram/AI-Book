@@ -27,7 +27,7 @@ All suggestions will be reviewed and applied in future releases.
 
 If you are not comfortable with GitHub, you can submit your suggestions through the form below:
 
-[📋 Suggestion Submission Form](https://forms.gle/soon-form-link)
+[📋 Suggestion Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfx1wu_D8lX6GHu4Rr40qbzizwU09eaggcHUAuHw2MJ6-uGtA/viewform?usp=header)
 
 In the form, please include the chapter or page number, your suggestion, and your name or preferred credit.
 
