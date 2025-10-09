@@ -8,7 +8,14 @@ A comprehensive book on Artificial Intelligence and Robotics, aiming to cover al
 ## 🤝 Contribute  
 [**✍️ Click here to learn how to contribute**](https://github.com/lionprogram/The-AI-Handbook-From-Zero-to-Everything/blob/main/CONTRIBUTING.md)
 
+## 📬 Contact Me  
+[**📧 Click here to send me a message**](mailto:mahdi6269@gmail.com)
+
+## 💖 Support This Project  
+[**☕ Click here to support me (Buy Me a Coffee)**](https://www.buymeacoffee.com/yourusername)
+
 ---
+
 # LICENSE
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (**CC BY-NC-SA 4.0**).  
 See the [LICENSE](LICENSE) file for details.
