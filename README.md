@@ -12,7 +12,10 @@ A comprehensive book on Artificial Intelligence and Robotics, aiming to cover al
 [**📧 Click here to send me a message**](mailto:mahdi6269@gmail.com)
 
 ## 💖 Support This Project  
-[**☕ Click here to support me (Buy Me a Coffee)**](https://www.buymeacoffee.com/yourusername)
+**Crypto Support (USDT):**  
+- 🟣 TRC20: `soon!`  
+- 🟡 BEP20: `soon!`
+
 
 ---
 
